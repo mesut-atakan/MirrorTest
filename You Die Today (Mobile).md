@@ -1,6 +1,6 @@
 # Teknik Tasarım Dökümanı: You Die Today (Mobile)
 ## 1. Genel Bakış ve Teknoloji Yığını
-- **Hedef Platform:** Mobil (IOS 
+- **Hedef Platform:** Mobil (IOS & Android)
 - **Oyun Motoru:** Unity 6.3.X (LTS)
 - **Render Pipeline:** Universal Render Pipeline (URP). _Mobil cihazlarda yüksek performans için en ideal seçim._
 - **Kamera Perspektifi:** 3D Envioroment, 2D Perspective (Orthograpich)
